@@ -6,3 +6,5 @@ for number in numbers:
     total = total + number
 
 print(total)
+
+
