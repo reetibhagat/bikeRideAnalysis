@@ -9,7 +9,7 @@ for number in numbers:
 print(total)
 for i in range(1,5):
     print(i+2)
-    print(i+15)
+    print(i+16)
     print(i+8)
 
 # this code works
