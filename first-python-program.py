@@ -1,3 +1,4 @@
+
 numbers = [1, 2, 3, 4, 5, 1, 4, 5]
 
 # start parameter is not provided
@@ -8,6 +9,8 @@ for number in numbers:
 print(total)
 for i in range(1,5):
     print(i+2)
+    print(i+1)
+
 # this code works
 [0,1,2,3,4]
 
