@@ -6,5 +6,8 @@ for number in numbers:
     total = total + number
 
 print(total)
+for i in range(1,5):
+    print(i)
+
 
 
