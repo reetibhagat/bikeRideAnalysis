@@ -7,7 +7,7 @@ for number in numbers:
 
 print(total)
 for i in range(1,5):
-    print(i)
+    print(i+2)
 # this code works
 [0,1,2,3,4]
 
