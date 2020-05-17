@@ -10,7 +10,7 @@ print(total)
 for i in range(1,5):
     print(i+2)
     print(i+1)
-    print(i+3)
+    print(i+5)
 
 # this code works
 [0,1,2,3,4]
